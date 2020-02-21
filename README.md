@@ -17,4 +17,6 @@ Connect the battery. With a little bit of luck the LED will flash at 2Hz! If it 
 5. A missing jumper wire or part. 
 6. Weak battery. 
 
+https://easyeda.com/editor#id=f4f4cbcd8b504f7eb5c4352babe2677a|17ef5d6cc4a24aee86459515ab91b237
+
 ![](https://github.com/SteveJustin1963/TE-1-16-Flashing-LED/blob/master/flashled.png) ![](https://github.com/SteveJustin1963/TE-1-16-Flashing-LED/blob/master/lay.png) 
