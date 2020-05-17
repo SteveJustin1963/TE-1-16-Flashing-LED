@@ -1,4 +1,6 @@
-# TE-1-16-Flashing-LED PROJECT ONE 
+# TE-1-Flashing-LED 
+
+## PROJECT ONE 
 
 One of the simplest and most effective circuits using the 555 timer is a low frequency oscillator driving a LED. In this first project the components have been chosen to give a frequency of about 2 cycles per second (2Hz). This means the LED will blink twice per second. The whole circuit uses just 7 components. These are soldered onto the top of the experimenter board as shown in the layout diagram. You will need 7 jumper wires to connect the IC pins to the parts via the copper tracks. Use a 9v battery to power the LED and connect the battery snap to the positive and negative tracks as shown. Before connecting the battery, check over these 5 points: 
 
